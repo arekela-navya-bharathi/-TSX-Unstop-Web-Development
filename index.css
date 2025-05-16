@@ -1,0 +1,30 @@
+*
+{
+margin:0;
+
+text-align: center;
+
+font-family :cursive;
+
+margin-top: 30px;
+
+}
+
+h1
+{
+color:  red;
+
+font-size:120px;
+
+text-align: center;
+
+font-family :cursive;
+
+
+}
+
+button
+{
+    color: brown;
+    background-color: aqua;
+}
